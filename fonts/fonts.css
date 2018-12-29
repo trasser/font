@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'Austin Cy';
-    src: url('..fonts/AustinCy-Extrabold.woff2') format('woff2'),
+    src: url('../fonts/AustinCy-Extrabold.woff2') format('woff2'),
         url('../fonts/AustinCy-Extrabold.woff') format('woff');
     font-weight: 800;
     font-style: normal;
