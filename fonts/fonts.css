@@ -1,31 +1,31 @@
 @font-face {
     font-family: 'Austin Cy';
-    src: url('http://raoapi.ru/fonts/AustinCy-MediumItalic1.woff2') format('woff2'),
-        url('http://raoapi.ru/fonts/AustinCy-MediumItalic1.woff') format('woff');
+    src: url('../fonts/AustinCy-MediumItalic.woff2') format('woff2'),
+        url('../fonts/AustinCy-MediumItalic.woff') format('woff');
     font-weight: 500;
     font-style: italic;
 }
 
 @font-face {
     font-family: 'Austin Cy';
-    src: url('http://raoapi.ru/fonts/AustinCy-Light1.woff2') format('woff2'),
-        url('http://raoapi.ru/fonts/AustinCy-Light1.woff') format('woff');
+    src: url('../fonts/AustinCy-Light.woff2') format('woff2'),
+        url('../fonts/AustinCy-Light.woff') format('woff');
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Austin Cy';
-    src: url('http://raoapi.ru/fonts/AustinCy-Extrabold1.woff2') format('woff2'),
-        url('http://raoapi.ru/fonts/AustinCy-Extrabold1.woff') format('woff');
+    src: url('..fonts/AustinCy-Extrabold.woff2') format('woff2'),
+        url('../fonts/AustinCy-Extrabold.woff') format('woff');
     font-weight: 800;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Graphik LC';
-    src: url('http://raoapi.ru/fonts/GraphikLC-Regular1.woff2') format('woff2'),
-        url('http://raoapi.ru/fonts/GraphikLC-Regular1.woff') format('woff');
+    src: url('../fonts/GraphikLC-Regular.woff2') format('woff2'),
+        url('../fonts/GraphikLC-Regular.woff') format('woff');
     font-weight: 300,400,500,600,700;
     font-style: normal;
 }
